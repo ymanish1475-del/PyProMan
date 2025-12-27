@@ -17,12 +17,12 @@ print ("my point is :",point)
 # print(type(name))
 # print(type(point))
 # print(type(age))
-# name1='man'
-# name2="man"
-# name3='''man'''
-# print(name3)
-# print(name2)
-# print(name1
+name1='man'
+name2="man"
+name3='''man'''
+print(name3)
+print(name2)
+print(name1)
 # b=78
 # d=98
 # c=45
